@@ -18,6 +18,7 @@ I simply added URL shortener that he point me to (https://gist.github.com/destro
 - Download & install the workflow
 - Paste code from script.txt into /bin/bash in Gif filter worklow
 - Replace *** with your info
+- change scope folder to your own
 
 
 
